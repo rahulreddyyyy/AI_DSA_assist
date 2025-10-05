@@ -89,7 +89,7 @@ Respond in a helpful, encouraging tone.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/rahulreddyyyy/dsa-asist.git
+   git clone https://github.com/rahulreddyyyy/AI_DSA_asist.git
    cd dsa-assist
    ```
 
